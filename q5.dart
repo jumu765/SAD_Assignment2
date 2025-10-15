@@ -1,5 +1,6 @@
 import 'dart:io';
 
+
 void main() {
   stdout.write('Enter a positive integer: ');
   String? input = stdin.readLineSync();
